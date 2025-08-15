@@ -1,4 +1,4 @@
-# metdata
+# METADATA
  
    ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
    ![Stars](https://img.shields.io/github/stars/beloyseven?style=social)
