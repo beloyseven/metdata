@@ -1,10 +1,10 @@
 # metdata
  
-     ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
-     ![Stars](https://img.shields.io/github/stars/EastTimorGhostSecurity?style=social)
-     ![License](https://img.shields.io/badge/license-MIT-blue)
+   ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
+   ![Stars](https://img.shields.io/github/stars/beloyseven?style=social)
+   ![License](https://img.shields.io/badge/license-MIT-blue)
    
-     ![My Photo](./photo.png)
+   ![My Photo](./photo.png)
 installsaun
 
     git clone https://github.com/beloyseven/metdata.git 
