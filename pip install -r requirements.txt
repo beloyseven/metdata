@@ -1,0 +1,7 @@
+colorama 
+contextlib
+ PIL
+ piexif
+  mutagen
+  ffmpeg
+  pyexiftool 
