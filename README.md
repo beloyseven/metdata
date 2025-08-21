@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```
 
     
-  #### First we install exif at the terminal.
+  #### First we install exiftools at the terminal.
  
   #### You submit it to the firefox, enter the firefox copy image, video or audio pastes into the https://exif.tools so that you compare its metadata so that you know its metadata.
     
