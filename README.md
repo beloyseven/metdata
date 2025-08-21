@@ -14,7 +14,7 @@
 
    ## 🖥️ Utilization 
 ### Positive: Digital forensic, criminal investigation, data integrity. 
-### Negative: proof of evidence, document falsification, private break.
+### Negative: proof of evidence photo, video or audio falsification, private break.
 
    
 
@@ -60,9 +60,10 @@ pip install -r requirements.txt
  
   #### You submit it to the firefox, enter the firefox copy image, video or audio pastes into the https://exif.tools so that you compare its metadata so that you know its metadata.
     
-Created by: beloyseven
+### ✍️ Created by: beloyseven
 
-![Author](https://img.shields.io/badge/author-beloyseven-green?style=for-the-badge)
+### 🚨 i'm just for a project, you who use it must be responssable, because this is only used illegally.
+
 
 
      
