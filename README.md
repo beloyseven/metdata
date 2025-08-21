@@ -1,4 +1,4 @@
-# 🛡️ Metadata V1.0 
+# 🛡️ Metadata V1.0
 
    ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
    ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
@@ -7,13 +7,21 @@
    ![Security](https://img.shields.io/badge/Security-Military--Grade-red)
    ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
    
+   
 
    
    ![My Photo](./photo.png)
+
+   ## 🖥️ Utilization 
+### Positive: Digital forensic, criminal investigation, data integrity. 
+### Negative: proof of evidence, document falsification, private break.
+
    
 
 
  # ⚙️  Installation
+ ## For Educational Purposes Only: This project is created solely for educational purposes. Do not use it for illegal activities.
+ 
 ## 🍏 MacOs
 ```bash
 Install ExifTool
