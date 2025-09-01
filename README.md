@@ -1,5 +1,10 @@
 # 🛡️ Metadata V1.0
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=Hello%2C+my+name+is+beloyseven)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E46FF&width=435&lines=I+am+a+Engineering+Informatics+student)](https://git.io/typing-svg)
+
+
    ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
    ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
    ![Stars](https://img.shields.io/github/stars/beloyseven?style=social)
